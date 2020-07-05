@@ -10,4 +10,6 @@ Simple Django API to list the marathon classes.
 
 ```
 sudo docker container run -p 8000:8000 --name fcc4 axell13/fullcycle03-challenge4
+
+# access http://localhost:8000/maratona
 ```
